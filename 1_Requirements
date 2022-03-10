@@ -1,1 +1,32 @@
+# Description
+* Bank Accounts Application in Java using concept of OPPS
 
+# Requirements
+* Bank Account
+* Checking Account Details
+* Savings Accounts
+* Menu Driven
+
+## High level requirements
+* Program have to make sure that every user have an account by verifying some details
+* It should have to give account details to only authorized person like Account balance, Account number etc
+* It has to make sure that on Saving account it calculates interest and add that sum time by time 
+* One Menu driven class would be there in which we can interact with user like user can select an account, deposite some amount, withdraw of funds 
+* and apply interest rate on savings account
+
+## Low level requirements
+* When showing menu for user it should show menu for selecting an account, deposite money, widraw money, apply for interest on saving account, minimum balance in account etc.
+* All the linking between High level requirement and low level requirement should be done in a smooth manner that any glitch should not be there
+* On checking account it should also mention Transaction fee
+
+## 4W & 1H
+
+#What
+
+#Why
+
+#When
+
+#Where
+
+#How
