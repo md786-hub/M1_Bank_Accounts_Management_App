@@ -22,11 +22,16 @@
 ## 4W & 1H
 
 #What
+* Bank accounts application management
 
 #Why
+* To check account number, account balance and Calculate interest for savings accounts
 
 #When
+* We are going to apply OPPS concept while creating Driver class
 
 #Where
+* We will give options like Select an account, Deposit, Withdraw funds in Driver class
 
 #How
+* When we are going to done with BankAccount, CheckingAccount, SavingsAccount we are going to implement these in Driver class using multifile concept
